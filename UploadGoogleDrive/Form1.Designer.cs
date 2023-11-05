@@ -1,4 +1,4 @@
-﻿namespace UploadGoogleDriver
+﻿namespace UploadGoogleDrive
 {
     partial class Form1
     {

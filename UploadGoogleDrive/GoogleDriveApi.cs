@@ -10,7 +10,7 @@ using System.IO;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace UploadGoogleDriver
+namespace UploadGoogleDrive
 {
     /// <summary>
     /// Cần tạo ứng dụng trước tại https://console.cloud.google.com/appengine/start?hl=en

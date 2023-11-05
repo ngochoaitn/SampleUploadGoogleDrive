@@ -3,7 +3,7 @@ using System.IO;
 using System.Threading;
 using System.Windows.Forms;
 
-namespace UploadGoogleDriver
+namespace UploadGoogleDrive
 {
     public partial class Form1 : Form
     {
