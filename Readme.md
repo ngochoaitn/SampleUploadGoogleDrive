@@ -1,1 +1,1 @@
-Các bác chú ý cần cài các gói từ Nuget trước nha. Video giải thích: https://youtu.be/l9KpbNkATR0
+Các bác chú ý cần cài các gói từ Nuget trước nha. Video giải thích: https://youtu.be/iHfFGfJzAfQ
