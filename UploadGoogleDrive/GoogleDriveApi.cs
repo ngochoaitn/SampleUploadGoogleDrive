@@ -214,7 +214,7 @@ namespace UploadGoogleDriver
                 {
                     if (shareanyonewithlink)
                     {
-                        string linkShare = ShareAnyoneWithLink(_service, requestUpload.ResponseBody.Id);
+                        string linkShare = ShareAnyoneWithLink(requestUpload.ResponseBody.Id);
                         return linkShare;
                     }
                     else
